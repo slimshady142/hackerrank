@@ -1,7 +1,7 @@
 
 /**
 * Created by Abhishek Shetye
-* coin change hackerrank - Top down approah
+* coin change hackerrank - Top down approach
 */
 
 #include <bits/stdc++.h>
